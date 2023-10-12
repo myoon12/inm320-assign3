@@ -6,9 +6,9 @@ $color: #787878;
 
 
 body {
-    font-family: Quando;
-    font-size: 15px;
-    color: #787878;
+    font-family: $font;
+    font-size: $font-size;
+    color: $color;
 }
 img {
     max-width: 100%;
